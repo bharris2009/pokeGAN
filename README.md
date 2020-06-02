@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/moxiegushi/pokeGAN)](https://repl.it/github/moxiegushi/pokeGAN)
 # pokeGAN
 Creats new kinds of pokemons using WGAN! (DCGAN is also supported)
 ## dependence
